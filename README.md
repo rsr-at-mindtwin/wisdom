@@ -11,7 +11,7 @@ wisdom for the ages
 8. Relationships fade no matter how close they are; your best friend may not even talk to you more than when you accidentally encounter one another in a few years. People don’t deal with changing feelings.
 9. Personality may matter but looks matter first and more
 10. "This is the first incident" is only true because the incident is very carefully being defined to be unique.
-11. You will not ever feel like doing it
+11. You will not ever feel like doing it (motivation comes and goes - it is fleeting and less effective than habits and discipline; Stephen King's quote “Amateurs sit and wait for inspiration, the rest of us just get up and go to work” applies)
 12. Always ask doctors or lawyers "what would YOU do?" instead of "what should I do?"; they don't know YOUR situation and constraints but they can explain their constraints.
 13. The statistics apply to you, too.  e.g., E=PV.  
 14. No matter how well meaning you may be, or how obvious the situation is, except for disclosing what is patently obvious (what you are doing, visibly, at the time, why you are some place in that moment) and what is required of you (name, driver's license when driving), don't talk to the police.  "I am exercising my sixth amendment right to counsel and will not answer questions without my attorney being present."
