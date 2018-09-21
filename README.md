@@ -15,4 +15,4 @@ wisdom for the ages
 12. Always ask doctors or lawyers "what would YOU do?" instead of "what should I do?"; they don't know YOUR situation and constraints but they can explain their constraints.
 13. The statistics apply to you, too.  e.g., E=PV.  
 14. No matter how well meaning you may be, or how obvious the situation is, except for disclosing what is patently obvious (what you are doing, visibly, at the time, why you are some place in that moment) and what is required of you (name, driver's license when driving), don't talk to the police.  "I am exercising my sixth amendment right to counsel and will not answer questions without my attorney being present."
-15. People undervalue that which comes to them easily.  Trying to ease someone's way in career, relationships, friendships, money, etc. will often just lead to that help making their situation worse and yours.
+15. People undervalue that which comes to them easily.  Trying to ease someone's way in career, relationships, friendships, money, etc. will often just lead to that help making their situation worse.
