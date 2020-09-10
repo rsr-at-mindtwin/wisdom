@@ -18,3 +18,15 @@ wisdom for the ages
 15. People undervalue that which comes to them easily.  Trying to ease someone's way in career, relationships, friendships, money, etc. will often just lead to that help making their situation worse.
 16. No action, however innocuous or inconsequential, will not cause a set of crazies to emerge with conspiracy theories.
 17. The most cost-effective and least-effort-intensive way to prove merit is by leaving an employer or organization.
+
+
+
+Adjacent:
+
+1. Sudden, forceful, detailed denials without lag tend to indicate the assertion that triggered it is correct[1]
+
+
+
+Footnotes:
+
+[1] example - "Most companies will at least take 20 minutes to run the placeholder press release by legal. Milton did not pass go on this one, so yea, this is probably the record for vehement and ad hominem denials cc: HindenbergRes $NKLA" https://twitter.com/muddywatersre/status/1304051845111844864 
