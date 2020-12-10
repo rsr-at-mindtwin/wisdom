@@ -18,7 +18,7 @@ wisdom for the ages
 15. People undervalue that which comes to them easily.  Trying to ease someone's way in career, relationships, friendships, money, etc. will often just lead to that help making their situation worse.
 16. No action, however innocuous or inconsequential, will not cause a set of crazies to emerge with conspiracy theories.
 17. The most cost-effective and least-effort-intensive way to prove merit is by leaving. Employers have trouble re-evaluating people, especially individual contributors, but exiting to somewhere better means that either they re-evaluate you, or they don't, but it no longer matters.
-
+18. Never, ever rely on an addict.
 
 
 Adjacent:
