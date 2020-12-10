@@ -23,7 +23,7 @@ wisdom for the ages
 
 Adjacent:
 
-1. Sudden, forceful, detailed denials without lag tend to indicate the assertion that triggered it is correct[1]
+1. Sudden, forceful, detailed denials without lag tend to indicate the assertions that triggered them are correct[1]
 
 
 
