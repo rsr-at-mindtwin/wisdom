@@ -8,7 +8,7 @@ wisdom for the ages
 5. Public accusations are a tacit admission of your own inclinations
 6. Time kills all deals
 7. Repetition makes lies seem true (neurons that fire together wire together) even if one consciously "knows" it's a lie
-8. Relationships fade no matter how close they are; your best friend may not even talk to you more than when you accidentally encounter one another in a few years. People don’t deal with changing feelings.
+8. People as a rule don’t deal with changing feelings. Relationships fade no matter how close they are; your best friend may not even talk to you except when you accidentally encounter one another after a few years.
 9. Personality may matter but looks matter first and more
 10. "This is the first incident" is only true because the incident is very carefully being defined to be unique.
 11. You will not ever feel like doing it (motivation comes and goes - it is fleeting and less effective than habits and discipline; Stephen King's quote “Amateurs sit and wait for inspiration, the rest of us just get up and go to work” applies)
