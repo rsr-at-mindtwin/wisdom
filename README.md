@@ -9,7 +9,7 @@ wisdom for the ages
 6. Time kills all deals
 7. Repetition makes lies seem true (neurons that fire together wire together) even if one consciously "knows" it's a lie
 8. People as a rule don’t deal with changing feelings. Relationships fade no matter how close they are; your best friend may not even talk to you except when you accidentally encounter one another after a few years.
-9. Personality may matter but looks matter first and more
+9. Personality may matter but looks matter first and more [2] 
 10. "This is the first incident" is only true because the incident is very carefully being defined to be unique.
 11. You will not ever feel like doing it (motivation comes and goes - it is fleeting and less effective than habits and discipline; Stephen King's quote “Amateurs sit and wait for inspiration, the rest of us just get up and go to work” applies)
 12. Always ask doctors, lawyers and other experts, "what would YOU do?" instead of "what should I do?"; there is a cognitive bias when people evaluate the situation of others, they are unaware of constraints and other considerations, but when thinking about the situation as their own, constraints are brought to the forefront and they also gain better ability to explain the logic of their feedback.
@@ -27,6 +27,9 @@ Adjacent:
 2. A conflict-avoidant personality type in a leadership position can only lead to ruin.
 
 
+
 Footnotes:
 
 [1] example - "Most companies will at least take 20 minutes to run the placeholder press release by legal. Milton did not pass go on this one, so yea, this is probably the record for vehement and ad hominem denials cc: HindenbergRes $NKLA" https://twitter.com/muddywatersre/status/1304051845111844864 
+
+[2] It doesn't matter if the importance fades. Things that function as gatekeepers have primacy.
