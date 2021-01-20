@@ -24,7 +24,7 @@ wisdom for the ages
 Adjacent:
 
 1. Sudden, forceful, detailed denials without lag tend to indicate the assertions that triggered them are correct[1]
-
+2. A conflict-avoidant personality type in a leadership position can only lead to ruin.
 
 
 Footnotes:
