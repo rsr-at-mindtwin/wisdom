@@ -32,4 +32,4 @@ Footnotes:
 
 [1] example - "Most companies will at least take 20 minutes to run the placeholder press release by legal. Milton did not pass go on this one, so yea, this is probably the record for vehement and ad hominem denials cc: HindenbergRes $NKLA" https://twitter.com/muddywatersre/status/1304051845111844864 
 
-[2] It doesn't matter if the importance fades. Things that function as gatekeepers have primacy.
+[2] It doesn't matter if the importance fades. Things that function as gatekeepers have primacy. First impressions matter.
