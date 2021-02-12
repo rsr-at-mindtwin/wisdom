@@ -6,7 +6,7 @@ wisdom for the ages
 3. Official denials are official confirmations (reassurances that "XXX is valued [and not devalued, at risk]" count here as does "We have no evidence" since it just as often means "we did not or cannot look for evidence")
 4. Use caution when trusting people who agree with you because you are not testing their beliefs [3]
 5. Public accusations are a tacit admission of your own inclinations
-6. Time kills all deals
+6. Time kills all deals [4]
 7. Repetition makes lies seem true (neurons that fire together wire together) even if one consciously "knows" it's a lie
 8. People as a rule don’t deal with changing feelings. Relationships fade no matter how close they are; your best friend may not even talk to you except when you accidentally encounter one another after a few years.
 9. Personality may matter but looks matter first and more [2] 
@@ -35,3 +35,5 @@ Footnotes:
 [2] It doesn't matter if the importance fades. Things that function as gatekeepers have primacy. First impressions matter.
 
 [3] "It is better to fall in with crows than with flatterers; for in the one case you are devoured when dead, in the other case while alive." 	Antisthenes (Diogenes Laërtius, vi. 4)
+
+[4] this is common wisdom among people who have been in sales; it's a stronger assertion than its complement, which is that interested customers will just get the buying over with and if a deal is taking too long, they were never really going to buy. the assertion here is that without inertia and energy, no deal will get done, and both of those inherently fade, no matter what.
