@@ -4,7 +4,7 @@ wisdom for the ages
 1. The person who cares less controls the relationship
 2. Authority figures always lie for their benefit
 3. Official denials are official confirmations (reassurances that "XXX is valued [and not devalued, at risk]" count here as does "We have no evidence" since it just as often means "we did not or cannot look for evidence")
-4. Use caution when trusting people who agree with you because you are not testing their beliefs
+4. Use caution when trusting people who agree with you because you are not testing their beliefs [3]
 5. Public accusations are a tacit admission of your own inclinations
 6. Time kills all deals
 7. Repetition makes lies seem true (neurons that fire together wire together) even if one consciously "knows" it's a lie
@@ -33,3 +33,5 @@ Footnotes:
 [1] example - "Most companies will at least take 20 minutes to run the placeholder press release by legal. Milton did not pass go on this one, so yea, this is probably the record for vehement and ad hominem denials cc: HindenbergRes $NKLA" https://twitter.com/muddywatersre/status/1304051845111844864 
 
 [2] It doesn't matter if the importance fades. Things that function as gatekeepers have primacy. First impressions matter.
+
+[3] "It is better to fall in with crows than with flatterers; for in the one case you are devoured when dead, in the other case while alive." 	Antisthenes (Diogenes Laërtius, vi. 4)
