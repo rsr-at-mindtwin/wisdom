@@ -20,13 +20,13 @@ wisdom for the ages
 17. The most cost-effective and least-effort-intensive way to prove merit is by leaving. Employers have trouble re-evaluating people, especially individual contributors, but exiting to somewhere better means that either they re-evaluate you, or they don't, but it no longer matters.
 18. Never, ever rely on an addict.
 19. All sentences, in all languages, implicitly end with the phrase "for now."
+20. If you see an advertisement, story, essay, etc. in any media, especially online media, even if it appears to be aimed at a different demographic, it's actually there for *you*, specifically, to manipulate you. 
+21. Be aware that skill at detecting manipulative people actually ends up selecting for a higher class of skilled liars - you will believe the one who fools you. [6]
 
 Adjacent:
 
 1. Sudden, forceful, detailed denials without lag tend to indicate the assertions that triggered them are correct[1]
 2. A conflict-avoidant personality type in a leadership position can only lead to ruin.
-
-
 
 Footnotes:
 
@@ -37,3 +37,7 @@ Footnotes:
 [3] "It is better to fall in with crows than with flatterers; for in the one case you are devoured when dead, in the other case while alive." 	Antisthenes (Diogenes Laërtius, vi. 4)
 
 [4] this is common wisdom among people who have been in sales; it's a stronger assertion than its complement, which is that interested customers will just get the buying over with and if a deal is taking too long, they were never really going to buy. the assertion here is that without inertia and energy, no deal will get done, and both of those inherently fade, no matter what.
+
+[5] the essay at the defunct site "The Last Psychiatrist" talks about this with regard to branding and advertising, but it's a universal rule -  https://thelastpsychiatrist.com/2011/11/luxury_branding_the_future_lea.html ; the relentless ingroup branding and view-reaffirmation of sites like The Washington Post (which I read regularly) is no different than your run of the mill crazy conspiracy site.
+
+[6] Back when we were hiring a CEO, I spent time fretting about the issue that I was effectively a selection function for skilled liars/manupulators, a trait for which the people in the candidate pool are known (with good reason). There’s a problem in that context, though, which is that on some level the limit of liar is successful "reality distortion field"-type CEO.  The kind that screwed over his cofounders and even his own child but was one of the most successful CEOs in history might be a better choice than that nice non-psychopath that just doesn't get you there. The huge middle ground is the problem: scheming and self-serving, yes, but also ineffective. Anyway, an element of randomness can be used to help manage skilled liars.
