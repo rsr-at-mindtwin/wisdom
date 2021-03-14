@@ -1,5 +1,5 @@
 # wisdom
-wisdom for the ages
+minor things I have learned
 
 1. The person who cares less controls the relationship
 2. Authority figures always lie for their benefit
