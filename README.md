@@ -20,7 +20,7 @@ minor things I have learned
 17. The most cost-effective and least-effort-intensive way to prove merit is by leaving. Employers have trouble re-evaluating people, especially individual contributors, but exiting to somewhere better means that either they re-evaluate you, or they don't, but it no longer matters.
 18. Never, ever rely on an addict.
 19. All sentences, in all languages, implicitly end with the phrase "for now."
-20. If you see an advertisement, story, essay, etc. in any media, especially online media, even if it appears to be aimed at a different demographic, it's actually there for *you*, specifically, to manipulate you. 
+20. If you see an advertisement, story, essay, etc. in any media, especially online media, even if it appears to be aimed at a different demographic, it's actually there for *you*, specifically, to manipulate you. [5]
 21. Be aware that skill at detecting manipulative people actually ends up selecting for a higher class of skilled liars - you will believe the one who fools you. [6]
 
 Adjacent:
