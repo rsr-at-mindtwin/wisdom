@@ -23,6 +23,7 @@ minor things I have learned
 20. If you see an advertisement, story, essay, etc. in any media, especially online media, even if it appears to be aimed at a different demographic, it's actually there for *you*, specifically, to manipulate you. [5]
 21. Be aware that skill at detecting manipulative people actually ends up selecting for a higher class of skilled liars - you will believe the one who fools you. [6]
 22. It's not a tribe unless you have the ability to ask the tribe to give back.[7]
+23. The most reliable predictor of future behavior is past behavior.
 
 Adjacent:
 
