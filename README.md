@@ -24,6 +24,7 @@ minor things I have learned
 21. Be aware that skill at detecting manipulative people actually ends up selecting for a higher class of skilled liars - you will believe the one who fools you. [6]
 22. It's not a tribe unless you have the ability to ask the tribe to give back.[7]
 23. The most reliable predictor of future behavior is past behavior.
+24. Insiders compete with insiders so they spend most of their effort building things for insiders.[8]
 
 Adjacent:
 
@@ -45,3 +46,8 @@ Footnotes:
 [6] Back when we were hiring a CEO, I spent time fretting about the issue that I was effectively a selection function for skilled liars/manupulators, a trait for which the people in the candidate pool are known (with good reason). There’s a problem in that context, though, which is that on some level the limit of liar is successful "reality distortion field"-type CEO.  The kind that screwed over his cofounders and even his own child but was one of the most successful CEOs in history might be a better choice than that nice non-psychopath that just doesn't get you there. The huge middle ground is the problem: scheming and self-serving, yes, but also ineffective. Anyway, an element of randomness can be used to help manage skilled liars.
 
 [7] Put another way, the fake team membership (team Xbox vs. team PS3, "home team" sports teams, etc.) is just a kind of fantasizing of membership that people fall into. In reality, you are not on anyone's "side" or "team" if there isn't some kind of real reciprocal relationship.  Or, tersely, don't love something that can't or won't love you back and may not even know you exist. hat tip: danM
+
+[8] https://twitter.com/shaarsh2/status/1324730934147588098 
+
+  "a lesson I’ve  learned by @nntaleb is that journalists write to impress other journalists. Architects to impress other architects. The gym equivalent of this is bodybuilding. Instead of building body for life, we now build bodies to impress others that build bodies"
+
