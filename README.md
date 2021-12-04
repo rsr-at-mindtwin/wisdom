@@ -4,7 +4,7 @@ minor things I have learned
 1. The person who cares less controls the relationship
 2. Authority figures always lie for their benefit
 3. Official denials are official confirmations (reassurances that "XXX is valued [and not devalued, at risk]" count here as does "We have no evidence" since it just as often means "we did not or cannot look for evidence")
-4. Use caution when trusting people who agree with you because you are not testing their beliefs [3]
+4. Use caution when trusting people who agree with you because you are not testing their beliefs [3] [9]
 5. Public accusations are a tacit admission of your own inclinations
 6. Time kills all deals [4]
 7. Repetition makes lies seem true (neurons that fire together wire together) even if one consciously "knows" it's a lie
@@ -49,5 +49,20 @@ Footnotes:
 
 [8] https://twitter.com/shaarsh2/status/1324730934147588098 
 
-  "a lesson I’ve  learned by @nntaleb is that journalists write to impress other journalists. Architects to impress other architects. The gym equivalent of this is bodybuilding. Instead of building body for life, we now build bodies to impress others that build bodies"
+	a lesson I’ve learned by @nntaleb is that journalists write to impress other journalists. 
+	Architects to impress other architects.
+	The gym equivalent of this is bodybuilding.
+	Instead of building body for life, we now build bodies to impress others that build bodies
 
+[9] An interesting, related, and perhaps even true anecdote I came across - https://www.viewofchina.com/fan-zhongyan/ Fan Zhongyan:  
+
+	I heard Confucian knew how to keep a distance from cunning men, as those are not the people the sage would like to work with. 
+	They have no concern for the nation, hold no vision for the future, but relentlessly pursue their personal interest, and chase after fame and wealth. 
+	They would say what their boss likes to hear, desire what their boss fancies to obtain, praise what their boss wishes to honour and censure what their boss wants to condemn … 
+	by so doing, they win trust from their boss to the point that they get a free hand to conduct their own wretched business.  
+
+	When these people gain access to power, the country will either be in trouble or meet a doomed fate.  
+
+	Fortunately, there is an easy way to identify such creatures. 
+
+	*If someone is forever agreeable with you and help you to screen out opinions that you don’t like to hear, there can be little doubt that this person must be a sinister schemer.*
