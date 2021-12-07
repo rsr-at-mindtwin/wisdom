@@ -25,7 +25,8 @@ minor things I have learned
 22. It's not a tribe unless you have the ability to ask the tribe to give back.[7]
 23. The most reliable predictor of future behavior is past behavior.
 24. Insiders compete with insiders so they spend most of their effort building things for insiders.[8]
-
+25. There's nothing magical about situational awareness.  Awareness of where you are at can be neutral, positive or negative. [10]
+ 
 Adjacent:
 
 1. Sudden, forceful, detailed denials without lag tend to indicate the assertions that triggered them are correct[1]
@@ -66,3 +67,5 @@ Footnotes:
 	Fortunately, there is an easy way to identify such creatures. 
 
 	*If someone is forever agreeable with you and help you to screen out opinions that you don’t like to hear, there can be little doubt that this person must be a sinister schemer.*
+	
+[10] Tracking the days you have left in your expected lifespan (see #13 if your response is "but I {am a vegan, exercise, have good genes, ...}!") can be extremely motivating as you get older, but as a young man it was meaningless to me.  Now, each year is 2.5+% of my remaining left and 4+% of my remaining "health span"; what was once an observation that I had plenty of time has become the observation that I don't have time to waste.
