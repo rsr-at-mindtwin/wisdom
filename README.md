@@ -3,7 +3,7 @@ minor things I have learned
 
 1. The person who cares less controls the relationship
 2. Authority figures always lie for their benefit
-3. Official denials are official confirmations (reassurances that "XXX is valued [and not devalued, at risk]" count here as does "We have no evidence" since it just as often means "we did not or cannot look for evidence")
+3. Official denials are official confirmations (reassurances that "XXX is valued [and not devalued, at risk]" count here as does "We have no evidence" since it just as often means "we did not or cannot look for evidence") [11]
 4. Use caution when trusting people who agree with you because you are not testing their beliefs [3] [9]
 5. Public accusations are a tacit admission of your own inclinations
 6. Time kills all deals [4]
@@ -69,3 +69,5 @@ Footnotes:
 	*If someone is forever agreeable with you and help you to screen out opinions that you don’t like to hear, there can be little doubt that this person must be a sinister schemer.*
 	
 [10] Tracking the days you have left in your expected lifespan (see #13 if your response is "but I {am a vegan, exercise, have good genes, ...}!") can be extremely motivating as you get older, but as a young man it was meaningless to me.  Now, each year is 2.5+% of my remaining left and 4+% of my remaining "health span"; the same observation was once an observation that I had plenty of time and shouldn't worry, then gradually became the observation that it was time to get serious, and has evolved into the present day observation that I don't have time to waste.
+
+[11] "Omnis determinatio est negatio" = Every determination is a negation - an interesting counter rule: official assertions are unofficial admissions of the opposite.  See: https://www.cambridge.org/core/journals/hegel-bulletin/article/abs/determination-is-negation-the-adventures-of-a-doctrine-from-spinoza-to-hegel-to-the-british-idealists/80AF0919E86130F800FDB2A127AD862D ("‘Determination is negation’: The Adventures of a Doctrine from Spinoza to Hegel to the British Idealists") or, hell, https://twitter.com/kamilkazani/status/1496535331260321801?s=21 - once again hat tip: danM
