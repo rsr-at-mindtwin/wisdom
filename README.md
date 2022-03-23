@@ -26,6 +26,7 @@ minor things I have learned
 23. The most reliable predictor of future behavior is past behavior.
 24. Insiders compete with insiders so they spend most of their effort building things for insiders.[8]
 25. There's nothing magical about situational awareness.  Awareness of where you are at can be neutral, positive or negative. [10]
+26. Everything you see in the media is trying to sell you something.
  
 Adjacent:
 
