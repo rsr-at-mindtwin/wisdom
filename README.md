@@ -27,12 +27,14 @@ minor things I have learned
 24. Insiders compete with insiders so they spend most of their effort building things for insiders.[8]
 25. There's nothing magical about situational awareness.  Awareness of where you are at can be neutral, positive or negative. [10]
 26. Everything you see in the media is trying to sell you something.
+27. When the good people go, *go with them*. [12] 
  
 Adjacent:
 
 1. Sudden, forceful, detailed denials without lag tend to indicate the assertions that triggered them are correct[1]
 2. A conflict-avoidant personality type in a leadership position can only lead to ruin.
-
+3. At some point, your best case scenario and your worst case scenario basically will blend together. [13]
+ 
 Footnotes:
 
 [1] example - "Most companies will at least take 20 minutes to run the placeholder press release by legal. Milton did not pass go on this one, so yea, this is probably the record for vehement and ad hominem denials cc: HindenbergRes $NKLA" https://twitter.com/muddywatersre/status/1304051845111844864 
@@ -72,3 +74,7 @@ Footnotes:
 [10] Tracking the days you have left in your expected lifespan (see #13 if your response is "but I {am a vegan, exercise, have good genes, ...}!") can be extremely motivating as you get older, but as a young man it was meaningless to me.  Now, each year is 2.5+% of my remaining left and 4+% of my remaining "health span"; the same observation was once an observation that I had plenty of time and shouldn't worry, then gradually became the observation that it was time to get serious, and has evolved into the present day observation that I don't have time to waste.
 
 [11] "Omnis determinatio est negatio" = Every determination is a negation - an interesting adhacent rule: official assertions are unofficial admissions of the opposite.  See: https://www.cambridge.org/core/journals/hegel-bulletin/article/abs/determination-is-negation-the-adventures-of-a-doctrine-from-spinoza-to-hegel-to-the-british-idealists/80AF0919E86130F800FDB2A127AD862D ("‘Determination is negation’: The Adventures of a Doctrine from Spinoza to Hegel to the British Idealists") or, hell, https://twitter.com/kamilkazani/status/1496535331260321801?s=21 ; this is different from the interpretation "Every determination gives rise to a contradiction" and is more a direct contrast to rule 3. once again hat tip: danM
+
+[12] this has been my mantra for at least 22 years and I honestly can't remember where I picked it up nor believe that I forgot to list it here. 
+
+[13] As you age, you will almost certainly experience periods where the best case outcome for your current situation is not materially better or more palatable than your worst case outcome. When you are very, very old this will become true - death or another day? I've had people directly tell me they would be happier if death would finally come, not because they're sad or whatever, but they're just done, and another day trapped at age 95 with failing vision, etc. and mostly living in memories of the past is indistinguishable to them from not-another-day.  More generally, a lot of people find themselves in this kind of death-like-stasis when they've allowed themselves to get stale.  These are those moments where you ask yourself - what's the worst case? I get fired? Or is it actually worse to not do whatever it is and *not* ot get fired and continue to be bored our of their mind and trapped by inertia? They wonder, "is it maybe better to just get fired or passed over or whatever and no longer endure it?" When you've been in the wrong role or position too long, all of these cases just blend together and it is not even possible to even tell which path would be better or worse. People in this situation are well advised to shake things up and challenge themselves again - move on, in whatever form.
