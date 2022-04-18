@@ -28,6 +28,7 @@ minor things I have learned
 25. There's nothing magical about situational awareness.  Awareness of where you are at can be neutral, positive or negative. [10]
 26. Everything you see in the media is trying to sell you something.
 27. When the good people go, *go with them*. [12] 
+28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a miserable position no matter what they do - they also realize that authorities can no longer punish them and become very dangerous. [14]
  
 Adjacent:
 
@@ -78,3 +79,5 @@ Footnotes:
 [12] this has been my mantra for at least 22 years and I honestly can't remember where I picked it up nor believe that I forgot to list it here. 
 
 [13] As you age, you will almost certainly experience periods where the best case outcome for your current situation is not materially better or more palatable than your worst case outcome. When you are very, very old this will become true - death or another day? I've had people directly tell me they would be happier if death would finally come, not because they're sad or whatever, but they're just done, and another day trapped at age 95 with failing vision, etc. and mostly living in memories of the past is indistinguishable to them from not-another-day.  More generally, a lot of people find themselves in this kind of death-like-stasis when they've allowed themselves to get stale.  These are those moments where you ask yourself - what's the worst case? I get fired? Or is it actually worse to not do whatever it is and *not* ot get fired and continue to be bored our of their mind and trapped by inertia? They wonder, "is it maybe better to just get fired or passed over or whatever and no longer endure it?" When you've been in the wrong role or position too long, all of these cases just blend together and it is not even possible to even tell which path would be better or worse. People in this situation are well advised to shake things up and challenge themselves again - move on, in whatever form.
+
+[14] https://en.wikipedia.org/wiki/Chen_Sheng - "Chen Sheng was born in Yangcheng (陽城; in present-day Fangcheng County, Henan). In 209 BC, he was a military captain along with Wu Guang when the two of them were ordered to lead 900 soldiers to Yuyang (漁陽; southwest of present-day Miyun County, Beijing) to help defend the northern border against Xiongnu. Due to storms, it became clear that they could not get to Yuyang by the deadline, and according to law, if soldiers could not get to their posts on time, they would be executed. Chen Sheng and Wu Guang, believing that they were doomed, led their soldiers to start a rebellion." - Well, if I'm going to be executed anyway, ... 
