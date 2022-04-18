@@ -35,7 +35,7 @@ Adjacent:
 1. Sudden, forceful, detailed denials without lag tend to indicate the assertions that triggered them are correct[1]
 2. A conflict-avoidant personality type in a leadership position can only lead to ruin.
 3. At some point, your best case scenario and your worst case scenario basically will blend together. [13]
-4. Nihilism as a fallback position when confronted with a moral assertion is actually a dodge.
+4. Nihilism as a fallback position when confronted with a moral assertion is a dodge.
  
 Footnotes:
 
