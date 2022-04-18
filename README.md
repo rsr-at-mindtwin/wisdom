@@ -28,7 +28,7 @@ minor things I have learned
 25. There's nothing magical about situational awareness.  Awareness of where you are at can be neutral, positive or negative. [10]
 26. Everything you see in the media is trying to sell you something.
 27. When the good people go, *go with them*. [12] 
-28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a miserable position no matter what they do - they also realize that authorities can no longer punish them and become very dangerous. [14]
+28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a bad position no matter what they do - they also realize that authorities can no longer punish them and they become very dangerous. [14]
  
 Adjacent:
 
