@@ -30,6 +30,7 @@ minor things I have learned
 27. When the good people go, *go with them*. [12] 
 28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a bad position no matter what they do - they also realize that authorities can no longer punish them and they become very dangerous. [14]
 29. Most internal political structures exist to preserve status quo for insiders. Trying to do something big by navigating that map will almost never work.[15] 
+30. No matter what, the previous administration takes the blame.[16]
  
 Adjacent:
 
@@ -85,3 +86,6 @@ Footnotes:
 [14] https://en.wikipedia.org/wiki/Chen_Sheng - "Chen Sheng was born in Yangcheng (陽城; in present-day Fangcheng County, Henan). In 209 BC, he was a military captain along with Wu Guang when the two of them were ordered to lead 900 soldiers to Yuyang (漁陽; southwest of present-day Miyun County, Beijing) to help defend the northern border against Xiongnu. Due to storms, it became clear that they could not get to Yuyang by the deadline, and according to law, if soldiers could not get to their posts on time, they would be executed. Chen Sheng and Wu Guang, believing that they were doomed, led their soldiers to start a rebellion." - Well, if I'm going to be executed anyway, ... 
 
 [15] The political landscape's goal is to prevent big, threatening, unpredictable changes but to allow small, beneficial changes that have a very clear line of ownership from which specific individuals can lock in benefit for themselves without weakening their position relative to rivals. It is better to just sidestep fortifications instead of going up straight up against the Maginot line - figure out what you can, and then ignore "the way things are done" by pretending you didn't know. The problem with trying to be fully calculating about the political map is the unknown unknowns that are invisible to most of the players but which can be a killing field for action.
+
+[16] The three envelopes joke applies to real life. Also, a side effect of this is that exit interviews and exit feedback are almost completely pointless to provide. Even a cursory examination of the _idea_ of exit interviews should make it clear that their only purpose is to catch late disclosures of unethical behaviors or liabilities such as sexual harassment. Beyond that, no one cares about the opinion of someone who is leaving. Replace "company" with "cult" and then see how much exit interviews would matter.  For most people, the company mostly didn’t care about your opinion when you were there. If you were a person with influence that anyone cared about, the exit interview is not where the feedback would be given, you would have given it all along, over many opportunities, and so nothing you say at exit can have meaning. Moreover, the company _knows this_.
+
