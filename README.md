@@ -31,6 +31,7 @@ minor things I have learned
 28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a bad position no matter what they do - they also realize that authorities can no longer punish them and they become very dangerous. [14]
 29. Most internal political structures exist to preserve status quo for insiders. Trying to do something big by navigating that map will almost never work.[15] 
 30. No matter what, the previous administration takes the blame.[16]
+31. Situations where you are going to be someone's learning experience will almost never have a positive outcome. [17]
  
 Adjacent:
 
@@ -94,4 +95,4 @@ Footnotes:
 	About a year later, the company was again experiencing a slight dip in sales, combined with serious product problems. Having learned from his previous experience, the CEO quickly opened the second envelope. The message read, "Reorganize." This he did, and the company quickly rebounded.
 	After several consecutive profitable quarters, the company once again fell on difficult times. Morris went to his office, closed the door and opened the third envelope. The message said, "Prepare three envelopes."
 
-
+[17] More broadly, if possible take advantage of the assymetry of experience in the opposite direction - try and find a win-win where the other person has experiences you can learn from and/or which contribute a likelihood of success to what you are trying to do and your own experience and efforts will do likewise for them.  While shared experiences make for interesting times and long term friendships or alliances, it's almost always worth avoiding being someone else's learning experience at something new - it's not going to work and you shouldn't have the belief that it will.  This goes for a lot of things - don't be someone's relationship standby/backup plan, don't be someone's exit liquidity, and so on. These are all cases where even if you win you lose.
