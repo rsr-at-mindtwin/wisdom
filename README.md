@@ -30,7 +30,7 @@ minor things I have learned
 27. When the good people go, *go with them*. [12] 
 28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a bad position no matter what they do - they also realize that authorities can no longer punish them and they become very dangerous. [14]
 29. Most internal political structures exist to preserve status quo for insiders. Trying to do something big by navigating that map will almost never work.[15] 
-30. No matter what, the previous administration takes the blame.[16]
+30. No matter what, the previous administration is assigned the blame.[16]
 31. Situations where you are going to be someone's learning experience will almost never have a positive outcome. [17]
  
 Adjacent:
@@ -39,6 +39,7 @@ Adjacent:
 2. A conflict-avoidant personality type in a leadership position can only lead to ruin.
 3. At some point, your best case scenario and your worst case scenario basically will blend together. [13]
 4. Nihilism as a fallback position when confronted with a moral assertion is a dodge.
+5. The things you own and interact with amplify your pre-existing personality traits. This can be mild to the point of invisibility or can be extreme: cars, dogs, guns, bicycles, etc. Aggressive (not in the good way), entitled people will have that trait amplified.  The extreme trolling that emerges online in forums (whether anonymous or not) is probably related to this.
  
 Footnotes:
 
