@@ -32,6 +32,7 @@ minor things I have learned
 29. Most internal political structures exist to preserve status quo for insiders. Trying to do something big by navigating that map will almost never work.[15] 
 30. No matter what, the previous administration is assigned the blame.[16]
 31. Situations where you are going to be someone's learning experience will almost never have a positive outcome. [17]
+32. Almost all situational problems in life are easy to address if your terminal goals are clear.[18]
  
 Adjacent:
 
@@ -39,7 +40,8 @@ Adjacent:
 2. A conflict-avoidant personality type in a leadership position can only lead to ruin.
 3. At some point, your best case scenario and your worst case scenario basically will blend together. [13]
 4. Nihilism as a fallback position when confronted with a moral assertion is a dodge.
-5. The things you own and interact with amplify your pre-existing personality traits. This can be mild to the point of invisibility or can be extreme: cars, dogs, guns, bicycles, etc. Aggressive (not in the good way), entitled people will have that trait amplified.  The extreme trolling that emerges online in forums (whether anonymous or not) is probably related to this.
+5. The things you own and interact with amplify your pre-existing personality traits. This can be mild to the point of invisibility or can be extreme: cars, dogs, guns, bicycles, etc. tend to bring with them, for some people, high levels of aggressive entitlement and stubborness. Aggressive (not in the good way), entitled people will have that trait amplified.  The extreme trolling that emerges online in forums (whether anonymous or not) is probably related to this.
+6. Self-image is often projected onto other actors in a very unhelpful way.[19]
  
 Footnotes:
 
@@ -97,3 +99,7 @@ Footnotes:
 	After several consecutive profitable quarters, the company once again fell on difficult times. Morris went to his office, closed the door and opened the third envelope. The message said, "Prepare three envelopes."
 
 [17] More broadly, if possible take advantage of the assymetry of experience in the opposite direction - try and find a win-win where the other person has experiences you can learn from and/or which contribute a likelihood of success to what you are trying to do and your own experience and efforts will do likewise for them.  While shared experiences make for interesting times and long term friendships or alliances, it's almost always worth avoiding being someone else's learning experience at something new - it's not going to work and you shouldn't have the belief that it will.  This goes for a lot of things - don't be someone's relationship standby/backup plan, don't be someone's exit liquidity, and so on. These are all cases where even if you win you lose.
+
+[18] People often confuse terminal, waypoint-instrumental, and purely instrumental goals.  There aren't many terminal goals in life, but there are many waypoints. Things like "make money" are instrumental goals, it's just people don't actually think of them that way.
+
+[19] If you make a habit of thinking about whether something is unnecessary, necessary-but-not-sufficient, or sufficient in and of itself, you start getting a lot of clarity about how your perceptions of your own motivations and image color, in a _very_ misleading way, how you evaluate what someone _else_ thinks. In 2014 or so, I realized that being good at teams, execution, business etc. fits this. They are necessary but not sufficient. A critical thing funders seek in “founders” is that the “founders” are willing to trade everything in their lives for a shot at getting to a successful company, which means prestige (for some) and an exit/wealth. The filter is “someone who can operate at scale, is broad enough to see both business and technical aspects, is very good at what they do, and willing to embrace a completely unbalanced life for some imagined future reward.”  Alone, each of those are necessary but not sufficient. I have met almost no one who has done their own startup who has brought up this aspect, though they have brought up the _side effects_ and _impacts_ of it without really conceiving of where they come from.
