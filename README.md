@@ -22,17 +22,18 @@ minor things I have learned
 19. All sentences, in all languages, implicitly end with the phrase "for now."
 20. If you see an advertisement, story, essay, etc. in any media, especially online media, even if it appears to be aimed at a different demographic, it's actually there for *you*, specifically, to manipulate you. [5]
 21. Be aware that skill at detecting manipulative people actually ends up selecting for a higher class of skilled liars - you will believe the one who fools you. [6]
-22. It's not a tribe unless you have the ability to ask the tribe to give back.[7]
+22. It's not a tribe unless you have the ability to ask the tribe to give back. [7]
 23. The most reliable predictor of future behavior is past behavior.
-24. Insiders compete with insiders so they spend most of their effort building things for insiders.[8]
+24. Insiders compete with insiders so they spend most of their effort building things for insiders. [8]
 25. There's nothing magical about situational awareness.  Awareness of where you are at can be neutral, positive or negative. [10]
 26. Everything you see in the media is trying to sell you something.
 27. When the good people go, *go with them*. [12] 
 28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a bad position no matter what they do - they also realize that authorities can no longer punish them and they become very dangerous. [14]
-29. Most internal political structures exist to preserve status quo for insiders. Trying to do something big by navigating that map will almost never work.[15] 
-30. No matter what, the previous administration is assigned the blame.[16]
+29. Most internal political structures exist to preserve status quo for insiders. Trying to do something big by navigating that map will almost never work. [15] 
+30. No matter what, the previous administration is assigned the blame. [16]
 31. Situations where you are going to be someone's learning experience will almost never have a positive outcome. [17]
-32. Almost all situational problems in life are easy to address if your terminal goals are clear.[18]
+32. Almost all situational problems in life are easy to address if your terminal goals are clear .[18]
+33. When growth stops, even in the absence of decline, everything becomes a zero-sum. [22]
  
 Adjacent:
 
@@ -108,3 +109,5 @@ Footnotes:
 [20] The extreme trolling that emerges online in forums (whether anonymous or not) is probably related to this.
 
 [21] Sure, some people are leading edge/early adopters/... but for most people, they only hear about things when they are approaching saturation - the odds are you are in the second-to-last or last generation of new adopters. This is why the rot seems to set in so quickly for things you adopt but takes so much longer for things you create - your view of the timeline is truncated: it didn't go bad overnight, it was already on the brink of going from ripening to rotting when you picked it.
+
+[22] the transformation from the rising tide of growth and success making life easy for everyone to the zero-sum no growth/decline situation brings with it brutal politics. for anyone to gain in that situation someone else needs to lose. infinite growth is impossible. this has many implications for the future of society - for a time people dying will offset it, but not forever. a lot of people who have known only good times of growth on all fronts - technology, agriculture, governance, economy, ... - will enter a new, harsh world that will last generations.
