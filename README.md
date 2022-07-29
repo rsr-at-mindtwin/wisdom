@@ -107,4 +107,4 @@ Footnotes:
 
 [20] The extreme trolling that emerges online in forums (whether anonymous or not) is probably related to this.
 
-[21] Sure, some people are leading edge/early adopters/... but for most people, they only hear about things when they are approaching saturation - the odds are you are in the second-to-last or last generation of new adopters. This is why the rot seems to set in so quickly - it didn't go bad overnight, it was already on the brink of going from ripening to rotting when you picked it.
+[21] Sure, some people are leading edge/early adopters/... but for most people, they only hear about things when they are approaching saturation - the odds are you are in the second-to-last or last generation of new adopters. This is why the rot seems to set in so quickly for things you adopt but takes so much longer for things you create - your view of the timeline is truncated: it didn't go bad overnight, it was already on the brink of going from ripening to rotting when you picked it.
