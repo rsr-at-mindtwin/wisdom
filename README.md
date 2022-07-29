@@ -42,6 +42,7 @@ Adjacent:
 4. Nihilism as a fallback position when confronted with a moral assertion is a dodge.
 5. The things you own and interact with amplify your pre-existing personality traits. This can be mild to the point of invisibility or can be extreme: cars, dogs, guns, bicycles, etc. tend to bring with them, for some people, high levels of aggressive entitlement and stubborness. Aggressive (not in the good way), entitled people will have that trait amplified. [20]
 6. Self-image is often projected onto other actors in a very unhelpful way. [19]
+7. By the time you are aware of a {trend, device, software app or tool, ... } it is probably at least halfway through it's lifespan. [21]
  
 Footnotes:
 
@@ -105,3 +106,5 @@ Footnotes:
 [19] If you make a habit of thinking about whether something is unnecessary, necessary-but-not-sufficient, or sufficient in and of itself, you start getting a lot of clarity about how your perceptions of your own motivations and image color, in a _very_ misleading way, how you evaluate what someone _else_ thinks. In 2014 or so, I realized that being good at teams, execution, business etc. fits this. They are necessary but not sufficient. A critical thing funders seek in “founders” is that the “founders” are willing to trade everything in their lives for a shot at getting to a successful company, which means prestige (for some) and an exit/wealth. The filter is “someone who can operate at scale, is broad enough to see both business and technical aspects, is very good at what they do, and willing to embrace a completely unbalanced life for some imagined future reward.”  Alone, each of those are necessary but not sufficient. I have met almost no one who has done their own startup who has brought up this aspect, though they have brought up the _side effects_ and _impacts_ of it without really conceiving of where they come from.
 
 [20] The extreme trolling that emerges online in forums (whether anonymous or not) is probably related to this.
+
+[21] Sure, some people are leading edge/early adopters/... but for most people, they only hear about things when it is approaching saturation - they are in the second-to-last or last generation of new adopters. This is why the rot seems to set in so quickly - it didn't go bad overnight, it was already on the brink of going from ripening to rotting when you picked it.
