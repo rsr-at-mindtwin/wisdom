@@ -53,7 +53,7 @@ Footnotes:
 
 [3] "It is better to fall in with crows than with flatterers; for in the one case you are devoured when dead, in the other case while alive." 	Antisthenes (Diogenes Laërtius, vi. 4)
 
-[4] this is common wisdom among people who have been in sales; it's a stronger assertion than its complement, which is that interested customers will just get the buying over with and if a deal is taking too long, they were never really going to buy. the assertion here is that without inertia and energy, no deal will get done, and both of those inherently fade, no matter what.
+[4] this is common wisdom among people who have been in sales; it's a stronger assertion than its complement, which is that interested customers will just get the buying over with and if a deal is taking too long, they were never really going to buy. the assertion here is that without inertia and energy, no deal will get done, and both of those inherently fade, no matter what. Another variant of this shows up in investing: "if you don't have the right timing, you don't have the right trade."
 
 [5] the essay at the defunct site "The Last Psychiatrist" talks about this with regard to branding and advertising, but it's a universal rule -  https://thelastpsychiatrist.com/2011/11/luxury_branding_the_future_lea.html ; the relentless ingroup branding and view-reaffirmation of sites like The Washington Post (which I read regularly) is no different than your run of the mill crazy conspiracy site. Once you recognize how ugly, manupulative and mean-spirited it is, especially because it naturally appeals to people like me in the in-group, it's kind of hard to get past.
 
