@@ -1,5 +1,6 @@
 # wisdom
-minor things I have learned
+
+## minor things I have learned
 
 1. The person who cares less controls the relationship
 2. Authority figures always lie for their benefit
@@ -35,7 +36,7 @@ minor things I have learned
 32. Almost all situational problems in life are easy to address if your terminal goals are clear .[18]
 33. When growth stops, even in the absence of decline, everything becomes a zero-sum. [22]
  
-Adjacent:
+## adjacent:
 
 1. Sudden, forceful, detailed denials without lag tend to indicate the assertions that triggered them are correct [1]
 2. A conflict-avoidant personality type in a leadership position can only lead to ruin.
@@ -45,7 +46,30 @@ Adjacent:
 6. Self-image is often projected onto other actors in a very unhelpful way. [19]
 7. By the time you are aware of a {trend, device, software app or tool, ... } it is probably at least halfway through it's lifespan. [21]
  
-Footnotes:
+## high level takeaways
+
+1. Relationships are often a power struggle
+
+Rule #1 suggests a control dynamic in relationships, but almost all the rules relate to how interpersonal relationships actually work.  Rule #28 explains how people with their backs against the wall will react even to someone to whom they have pledged loyalty.  Rule #22 is about the big picture.
+
+2. Trust is difficult
+
+Rules #2, #3, #4, #7, and #14 all suggest that trust is difficult to establish and maintain because they enumerate the many ways that lies and deception are commonplace. People in positions of authority are not always truthful, official statements are often misleading, repetition has unfortunate influence, and even agreement may be a sign of untrustworthiness. 
+
+3. Change is constant
+
+Rules #8, #19, and #33 suggest that change is a constant in life, albeit for different reasons. Relationships, deals, and situations all have a finite lifespan and will eventually come to an end. Even language implicitly acknowledges the impermanence of things. The takeaway is that we should all be adaptable and prepared for change.
+
+4. Manipulation is ubiquitous
+
+Rules #5, #20, #21, #26, and #30 (in a way) suggest that manipulation is everywhere. Deflecting blame or making misleading statements is common. Advertisements and media are designed to manipulate our behavior, and even people skilled at detecting manipulation may be more likely to fall for it under some circumstances. This suggests that we need to be vigilant and critical of the information we receive, moreso if we want to believe it.
+
+5. Self-preservation is key
+
+Rules #13, #15, #18, #28, #31 and #33 suggest that self-preservation is important. Helping others can sometimes lead to negative outcomes, leaving a job can be the best way to prove your worth, addicts are not reliable, and doomed individuals may become extraordinarily dangerous. We must prioritize our own well-being if we want it to exist at all, even if it means making difficult choices.
+
+ 
+## footnotes:
 
 [1] example - "Most companies will at least take 20 minutes to run the placeholder press release by legal. Milton did not pass go on this one, so yea, this is probably the record for vehement and ad hominem denials cc: HindenbergRes $NKLA" https://twitter.com/muddywatersre/status/1304051845111844864 
 
