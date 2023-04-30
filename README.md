@@ -29,7 +29,7 @@
 25. There's nothing magical about situational awareness.  Awareness of where you are at can be neutral, positive or negative. [10]
 26. Everything you see in the media is trying to sell you something.
 27. When the good people go, *go with them*. [12] 
-28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a bad position no matter what they do - they also realize that authorities can no longer punish them and they become very dangerous. [14]
+28. Once people realize they are doomed - that is, their situation is such that they perceive they will be in a bad position no matter what they do - they also realize that authorities have limited ability to punish them and become very dangerous. [14]
 29. Most internal political structures exist to preserve status quo for insiders. Trying to do something big by navigating that map will almost never work. [15] 
 30. No matter what, the previous administration is assigned the blame. [16]
 31. Situations where you are going to be someone's learning experience will almost never have a positive outcome. [17]
