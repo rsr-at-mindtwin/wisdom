@@ -45,6 +45,7 @@
 5. The things you own and interact with amplify your pre-existing personality traits. This can be mild to the point of invisibility or can be extreme: cars, dogs, guns, bicycles, etc. tend to bring with them, for some people, high levels of aggressive entitlement and stubborness. Aggressive (not in the good way), entitled people will have that trait amplified. [20]
 6. Self-image is often projected onto other actors in a very unhelpful way. [19]
 7. By the time you are aware of a {trend, device, software app or tool, ... } it is probably at least halfway through it's lifespan. [21]
+8. People who believe themselves "above politics and game playing" almost always end up at the bottom of a hierarchy of politicians, most mediocre. A little effort would go a long way towards a better life experience.
  
 ## high level takeaways
 
