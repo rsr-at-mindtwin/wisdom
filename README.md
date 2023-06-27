@@ -46,6 +46,7 @@
 6. Self-image is often projected onto other actors in a very unhelpful way. [19]
 7. By the time you are aware of a {trend, device, software app or tool, ... } it is probably at least halfway through it's lifespan. [21]
 8. People who believe themselves "above politics and game playing" almost always end up at the bottom of a hierarchy of politicians, most mediocre. A little effort would go a long way towards a better life experience.
+9. When people are done - that is, when they conclude they've reached the end of the road, whether due to retirement, illness or just looking to spend their remaining years doing something else, or they've concluded that they're won the game and it's time to stop playing - they aren't exactly dangerous in the way dooned people are (28), but they are no longer constrained and "new" behaviors and attitudes start to dominate their interactions; these aren't new, they're just unburdened by the rules.
  
 ## high level takeaways
 
