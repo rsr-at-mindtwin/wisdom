@@ -50,6 +50,10 @@
  
 ## high level takeaways
 
+The key common factor across these observations is that a realist slant - they rely on the ability of the person trying to apply them to see the world as it is (how it really operates, and how the people in it actually behave) and not the way they want it to be or how it is portrayed. It requires that one see through the smokescreen of propaganda, self-promotion, groupthink, religion, and so on. This is hard because people *want* to engage with the thinking of their in-group, probably because they are biologically inclined to do so. [23]
+
+Some other conclusions:
+
 1. Relationships are often a power struggle
 
 Rule #1 suggests a control dynamic in relationships, but almost all the rules relate to how interpersonal relationships actually work.  Rule #28 explains how people with their backs against the wall will react even to someone to whom they have pledged loyalty.  Rule #22 is about the big picture.
@@ -137,3 +141,5 @@ Rules #13, #15, #18, #28, #31 and #33 suggest that self-preservation is importan
 [21] Sure, some people are leading edge/early adopters/... but for most people, they only hear about things when they are approaching saturation - the odds are you are in the second-to-last or last generation of new adopters. This is why the rot seems to set in so quickly for things you adopt but takes so much longer for things you create - your view of the timeline is truncated: it didn't go bad overnight, it was already on the brink of going from ripening to rotting when you picked it.
 
 [22] the transformation from the rising tide of growth and success making life easy for everyone to the zero-sum no growth/decline situation brings with it brutal politics. for anyone to gain in that situation someone else needs to lose. infinite growth is impossible. this has many implications for the future of society - for a time people dying will offset it, but not forever. a lot of people who have known only good times of growth on all fronts - technology, agriculture, governance, economy, ... - will enter a new, harsh world that will last generations. This happens to everyone and it. is quite amusing to watch companies like Google succumb to it prematurely (before growth has even actually stopped).
+
+[23] As I was writing this I am reminded of a conversation I had in the mid-2000s with a friend (hat tip: Sandro) about how he believed that everyone walks around with a model of the world their brain has built up on their behalf as they grew up through trial & error and informaiton gathering/interactions and so on and that this basically dictated their ability to make sense of their world. Roughly, every person has something analogous to an n-parameter configuration of what they thing the world looks like, and if one imagines that there is a singular true world parameter set, then you could imagine calculating the distance between a given person's established parameters and the real world's true (secret) values, and his belief was that the distance between the two would have outsized impact on success that was not otherwise explained by luck. I think this is right.
