@@ -35,6 +35,7 @@
 31. Situations where you are going to be someone's learning experience will almost never have a positive outcome. [17]
 32. Almost all situational problems in life are easy to address if your terminal goals are clear .[18]
 33. When growth stops, even in the absence of decline, everything becomes a zero-sum. [22]
+34. Everything you need to know about a person's preferences are on display in their past choices (revealed preferences).
  
 ## adjacent:
 
