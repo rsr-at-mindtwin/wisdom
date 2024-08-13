@@ -36,7 +36,8 @@
 32. Almost all situational problems in life are easy to address if your terminal goals are clear .[18]
 33. When growth stops, even in the absence of decline, everything becomes a zero-sum. [22]
 34. Everything you need to know about a person's preferences are on display in their past choices (revealed preferences).
- 
+25. Times of chaos are times when the current owners of the gradient from which they draw power are temporarily shaken lose - almost all good things in life and history have emerged from chaos.[25]
+
 ## adjacent:
 
 1. Sudden, forceful, detailed denials without lag tend to indicate the assertions that triggered them are correct [1]
@@ -146,3 +147,11 @@ Rules #13, #15, #18, #28, #31 and #33 suggest that self-preservation is importan
 [23] As I was writing this I am reminded of a conversation I had in the mid-2000s with a friend (hat tip: Sandro) about how he believed that everyone walks around with a model of the world their brain has built up on their behalf as they grew up through trial & error and informaiton gathering/interactions and so on and that this basically dictated their ability to make sense of their world. Roughly, every person has something analogous to an n-parameter configuration of what they thing the world looks like, and if one imagines that there is a singular true world parameter set, then you could imagine calculating the distance between a given person's established parameters and the real world's true (secret) values, and his belief was that the distance between the two would have outsized impact on success that was not otherwise explained by luck. I think this is right.
 
 [24] Sometimes stated "Every accusation is a confession."  This comes up over and over again - public figures who spend a lot of effort fighting CSAM only to be found to be molesters or otherwise involved in it. Powerful people working on certain causes that who then turn out to be insanely sexist/racist/homophobic/etc., religious-focused personalities focused publicly on "family values" who turn out to be swingers or cuckold fetishists, and so on. It happens over and over, and yet people never seem to learn.
+
+[25] All living things exploit energy gradients for life, and that's as true in organizations as it is in the wild. There is an exchange in Game of Thrones (the show, not the books) that captures this: 
+
+  Lord Varys : But what do we have left, once we abandon the lie? Chaos? A gaping pit waiting to swallow us all.
+
+  Petyr 'Littlefinger' Baelish : Chaos isn't a pit. Chaos is a ladder. Many who try to climb it fail and never get to try again. The fall breaks them. And some, are given a chance to climb. They refuse, they cling to the realm or the gods or love. Illusions. Only the ladder is real. The climb is all there is.
+
+This is a common sentiment but hard to cite so blunly. One of the most direct is by Milton Friedman: "Only a crisis — actual or perceived — produces real change." Napoleon said, "The battlefield is a scene of constant chaos. The winner will be the one who controls that chaos, both his own and the enemies" which gets to the nature of chaos and controlling it, but not to the inherent sense of opportunity. There is a (very likely) fake quote in The Art of War, "In the midst of chaos, there is also opportunity" - fake or not, that is the sentiment. Nietzsche has a quote about it (among many terreible quotes): "I say unto you: one must still have chaos in oneself to be able to give birth to a dancing star" but that is about one's own internal chaos. 
